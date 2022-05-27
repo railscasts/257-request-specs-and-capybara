@@ -68,7 +68,7 @@ GEM
     nifty-generators (0.4.5)
     nokogiri (1.4.4)
     polyglot (0.3.1)
-    rack (1.2.2)
+    rack (1.2.8)
     rack-mount (0.6.13)
       rack (>= 1.0.0)
     rack-test (0.5.7)
